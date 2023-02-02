@@ -1,5 +1,8 @@
 {
-    "royalty": 5,
+    "royalty": {
+        "amount": 5,
+        "currency": "Percent"
+    },
     "transaction_fee_list": {
         "amount": 1,
         "currency": "$LINGO"
