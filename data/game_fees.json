@@ -1,0 +1,23 @@
+{
+    "royalty": 5,
+    "transaction_fee_list": {
+        "amount": 1,
+        "currency": "$LINGO"
+    },
+    "transaction_fee_delist": {
+        "amount": 1,
+        "currency": "$LINGO"
+    },
+    "transaction_fee_buy": {
+        "amount": 1,
+        "currency": "$LINGO"
+    },
+    "transaction_fee_transfer_to_wallet": {
+        "amount": 5,
+        "currency": "$SAYVE"
+    },
+    "transaction_fee_transfer_to_game": {
+        "amount": 0.1,
+        "currency": "$LUNA"
+    }
+}
