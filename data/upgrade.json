@@ -1,93 +1,237 @@
 {
-  "levels": [
-    {
-      "range": "2-9",
-      "requirement": [
-        {
-          "amount": 10,
-          "currency": "LESSONS"
-        }
-      ]
-    },
-    {
-      "range": "10",
-      "requirement": [
-        {
-          "amount": 15,
-          "currency": "LINGO"
-        }
-      ]
-    },
-    {
-      "range": "11-19",
-      "requirement": [
-        {
-          "amount": 10,
-          "currency": "LESSONS"
-        }
-      ]
-    },
-    {
-      "range": "20",
-      "requirement": [
-        {
-          "amount": 30,
-          "currency": "LINGO"
-        }
-      ]
-    },
-    {
-      "range": "21",
-      "requirement": [
-        {
-          "amount": 35,
-          "currency": "LINGO"
-        }
-      ]
-    },
-    {
-      "range": "22",
-      "requirement": [
-        {
-          "amount": 40,
-          "currency": "LINGO"
-        }
-      ]
-    },
-    {
-      "range": "23",
-      "requirement": [
-        {
-          "amount": 45,
-          "currency": "LINGO"
-        }
-      ]
-    },
-    {
-      "range": "24",
-      "requirement": [
-        {
-          "amount": 60,
-          "currency": "LINGO"
-        },
-        {
-          "amount": 60,
-          "currency": "SAYVE"
-        }
-      ]
-    },
-    {
-      "range": "25",
-      "requirement": [
-        {
-          "amount": 50,
-          "currency": "LINGO"
-        },
-        {
-          "amount": 100,
-          "currency": "SAYVE"
-        }
-      ]
-    }
-  ]
+   "levels":[
+      {
+         "level":2,
+         "requirement":[
+            {
+               "amount":10,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":3,
+         "requirement":[
+            {
+               "amount":20,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":4,
+         "requirement":[
+            {
+               "amount":30,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":5,
+         "requirement":[
+            {
+               "amount":40,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":5,
+         "requirement":[
+            {
+               "amount":40,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":6,
+         "requirement":[
+            {
+               "amount":50,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":7,
+         "requirement":[
+            {
+               "amount":60,
+               "currency":"LESSONS"
+            }
+         ]
+      }, 
+      {
+         "level":8,
+         "requirement":[
+            {
+               "amount":70,
+               "currency":"LESSONS"
+            }
+         ]
+      }, 
+      {
+         "level":9,
+         "requirement":[
+            {
+               "amount":80,
+               "currency":"LESSONS"
+            }
+         ]
+      },      
+      {
+         "level":10,
+         "requirement":[
+            {
+               "amount":15,
+               "currency":"LINGO"
+            }
+         ]
+      },
+      {
+         "level":11,
+         "requirement":[
+            {
+               "amount":90,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":12,
+         "requirement":[
+            {
+               "amount":100,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":13,
+         "requirement":[
+            {
+               "amount":110,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":14,
+         "requirement":[
+            {
+               "amount":120,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":15,
+         "requirement":[
+            {
+               "amount":130,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":16,
+         "requirement":[
+            {
+               "amount":140,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":17,
+         "requirement":[
+            {
+               "amount":150,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":18,
+         "requirement":[
+            {
+               "amount":160,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":19,
+         "requirement":[
+            {
+               "amount":170,
+               "currency":"LESSONS"
+            }
+         ]
+      },
+      {
+         "level":20,
+         "requirement":[
+            {
+               "amount":30,
+               "currency":"LINGO"
+            }
+         ]
+      },
+      {
+         "level":21,
+         "requirement":[
+            {
+               "amount":35,
+               "currency":"LINGO"
+            }
+         ]
+      },
+      {
+         "level":22,
+         "requirement":[
+            {
+               "amount":40,
+               "currency":"LINGO"
+            }
+         ]
+      },
+      {
+         "level":23,
+         "requirement":[
+            {
+               "amount":45,
+               "currency":"LINGO"
+            }
+         ]
+      },
+      {
+         "level":24,
+         "requirement":[
+            {
+               "amount":60,
+               "currency":"LINGO"
+            },
+            {
+               "amount":60,
+               "currency":"SAYVE"
+            }
+         ]
+      },
+      {
+         "level":25,
+         "requirement":[
+            {
+               "amount":50,
+               "currency":"LINGO"
+            },
+            {
+               "amount":100,
+               "currency":"SAYVE"
+            }
+         ]
+      }
+   ]
 }
