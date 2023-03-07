@@ -16,6 +16,16 @@
   "xSayeBalanceofWinner": 21075.156588,
   "TotalTickets": 1554,
   "TotalSayveStaked": 157192.348904
+},
+{
+  "WeekNumber": 3,
+  "UnixTimeStamp": 1678169466,
+  "Block": 4075379,
+  "Winner": "terra143kcg4pnlsrpmtjmkkz9kxymxwh6xew4q5gz96",
+  "xSayeBalanceofWinner": 11188.827164,
+  "LPBalanceofWinner": 543.137963,
+  "TotalTickets": 8521,
+  "TotalSayveStaked": 355505.461885
 }
 ]
 
