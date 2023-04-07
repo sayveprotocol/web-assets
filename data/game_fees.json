@@ -27,7 +27,7 @@
         "amount": 0.02,
         "currency": "$LUNA"
     },
-    "transaction_fee_transfer_coin_to_vox": {
+    "transaction_fee_coin_transfer_to_vox": {
         "amount": 0.02,
         "currency": "$LUNA"
     }
