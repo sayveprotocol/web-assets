@@ -15,12 +15,20 @@
         "amount": 1,
         "currency": "$LINGO"
     },
-    "transaction_fee_transfer_to_wallet": {
-        "amount": 5,
+    "transaction_fee_nft_transfer_to_station": {
+        "amount": 1,
         "currency": "$SAYVE"
     },
-    "transaction_fee_transfer_to_game": {
-        "amount": 0.1,
+    "transaction_fee_coin_transfer_to_station": {
+        "amount": 1,
+        "currency": "$SAYVE"
+    },
+    "transaction_fee_nft_transfer_to_vox": {
+        "amount": 0.02,
+        "currency": "$LUNA"
+    },
+    "transaction_fee_transfer_coin_to_vox": {
+        "amount": 0.02,
         "currency": "$LUNA"
     }
 }
