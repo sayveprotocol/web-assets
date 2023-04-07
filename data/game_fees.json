@@ -12,7 +12,7 @@
         "currency": "$LINGO"
     },
     "transaction_fee_buy": {
-        "amount": 1,
+        "amount": 0,
         "currency": "$LINGO"
     },
     "transaction_fee_nft_transfer_to_station": {
