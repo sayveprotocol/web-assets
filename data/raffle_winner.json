@@ -46,5 +46,25 @@
   "LPBalanceofWinner": 0,
   "TotalTickets": 11646,
   "TotalSayveStaked": 553614.785362
+},
+{
+  "WeekNumber": 6,
+  "UnixTimeStamp": 1680118414,
+  "Block": 4401983,
+  "Winner": "terra1j4clgxdv53vhmfmv0qq66ku63xvyte6a702m0m",
+  "xSayeBalanceofWinner": 159815.742008,
+  "LPBalanceofWinner": 0,
+  "TotalTickets": 24655,
+  "TotalSayveStaked": 141930
 }
+ {
+  "WeekNumber": 7,
+  "UnixTimeStamp": 1682204649,
+  "Block": 4461987,
+  "Winner": "terra1qxgun2gmpul28yh9eg3d9qjyfp9fp97mfnd68v",
+  "xSayeBalanceofWinner": 40284.913304,
+  "LPBalanceofWinner": 0,
+  "TotalTickets": 24655,
+  "TotalSayveStaked": 141930
+} 
 ]
