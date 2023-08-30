@@ -1,5 +1,14 @@
 {
    "levels":[
+   {
+         "level":1,
+         "requirement":[
+            {
+               "amount":1,
+               "currency":"LINGO"
+            }
+         ]
+      },
       {
          "level":2,
          "requirement":[
